@@ -1,4 +1,14 @@
 body{
     color: rgb(214, 95, 151);
     background-color: rgb(2, 2, 40);
+    margin: 0%;
+}
+
+.navbar{
+    background-color: rgb(5, 35, 39);
+    color:white;
+    width:100%;
+    top:0%;
+    height: fit-content;
+    position: relative;
 }

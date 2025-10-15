@@ -2,7 +2,11 @@ body{
     color: rgb(214, 95, 151);
     background-color: rgb(2, 2, 40);
     margin: 0%;
-    padding-top: 3em;
+    padding-top: 4em;
+}
+
+body p {
+    margin-left: 5%;
 }
 
 .navbar{
@@ -17,9 +21,16 @@ body{
     flex-direction: row;
 }
 
+.navbar p {
+    margin: 0%;
+    margin-left: 1%;
+    align-self: center;
+}
+
 .navbar button {
     background-color: rgb(83, 54, 91);
     color:white;
-    margin-right: 1%;
-    outline-width: 1px;
+    height: 0%;
+    margin: 1%;
+    outline-width: 5px;
 }

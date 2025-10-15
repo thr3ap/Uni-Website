@@ -2,14 +2,15 @@ body{
     color: rgb(214, 95, 151);
     background-color: rgb(2, 2, 40);
     margin: 0%;
-    padding-top: 2em;
+    padding-top: 3em;
 }
 
 .navbar{
     background-color: rgb(5, 35, 39);
     color:white;
+    z-index: 999;
     width:100%;
     top:0%;
     height: fit-content;
-    position: absolute;
+    position: fixed;
 }

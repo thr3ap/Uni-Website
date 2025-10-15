@@ -34,3 +34,7 @@ body p {
     margin: 1%;
     outline-width: 5px;
 }
+
+#git-image-text{
+    height: 1em;
+}
